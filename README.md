@@ -11,7 +11,7 @@ Support for custom configurations and test scenarios
 Prerequisites
 Before running the automation scripts, ensure you have the following dependencies installed:
 
-Python 3.x
+Java
 Selenium WebDriver
 Web browser (Chrome, Firefox, etc.)
 Web browser driver (ChromeDriver, GeckoDriver, etc.)
